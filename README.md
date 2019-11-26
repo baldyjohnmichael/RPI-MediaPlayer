@@ -16,7 +16,9 @@
 
 ### Getting a USB Drive Ready
 The only thing you need to have on the USB drive is an audio or video file. To see the supported file formats, look under the section "Supported File Formats" of this document. 
-Getting a Micro SD Card Ready
+
+
+### Getting a Micro SD Card Ready
 
 ### Needed Software
 Download and Install the Following Programs and Files onto your Main Computer
