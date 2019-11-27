@@ -1,5 +1,5 @@
 # RPI-MediaPlayer
-
+A simple bash script that loops an audio or video file for the Raspberry Pi. 
 
 ## Set up
  
@@ -111,4 +111,5 @@ Hit "q" followed by "Ctrl+C"
 ### Known Issues
 The keyboard isn't always recognized when you start the application. The best way I've found to get control back is to click the mouse a few times and then check to see if the keyboard has regained functionality. 
  
-
+### Special Thanks
+Special thanks to Github user roiyz. Their project https://github.com/roiyz/PiVidBox gave me guidance and inspiration for this project, go check it out!
