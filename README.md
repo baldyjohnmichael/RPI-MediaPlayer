@@ -52,7 +52,7 @@ Navigate down to the line that starts with "/usr/bin/omxplayer". Now delete "-o 
 ### Making the file executable and run at startup. 
 After this, you must make the file executable. Type this command into the terminal and press enter. 
 
-`sudo chmod ugo+x startup.sh`
+`sudo chmod ugo+x run.sh`
 
 Make sure everything is working by inserting a USB drive that has support media file format on it. Now enter the following command in the terminal to run the script. 
 
